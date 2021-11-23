@@ -1,0 +1,97 @@
+/* estilos generales para toda la página */
+body {
+	font-family: 'Underdog', cursive;
+	margin: 0;
+  background-image: url("../img/doodad.png");
+}
+
+.bg-color-info {
+	background-color: rgb(244, 246, 251);
+}
+
+.font-color-general {
+	color: rgb(67, 105, 176);
+}
+
+.brand-name {
+	font-size: 1.8rem;
+	color: rgb(67, 105, 176);
+	margin-left: 2rem;
+}
+
+.bg-img-principal {
+	background-image: url("img/ayuda.png");
+	background-size: cover;
+	height: 650px;
+	background-position: center center;
+}
+
+.bloque-texto-principal {
+	margin-top:1px;
+}
+
+.bg-color-azul {
+	background-color: rgb(67, 105, 176);
+}
+
+.hrblanco {
+	width: 10%;
+	background-color: white;
+}
+
+.hrazul {
+	width: 10%;
+	background-color: rgb(244, 246, 251);
+}
+
+
+
+
+
+html{background: #000;}
+* {
+  margin: 0;
+  padding: 0;
+
+}
+.controls {
+  width: 100%;
+  background: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  margin-top: 2px;
+  margin-bottom: 15px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+}
+
+h1{
+  color:#FFF; 
+  font-family:'Indie Flower', cursive;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+form{
+  width: 430px;
+  background: rgb(67, 105, 176);;
+  padding: 30px;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 7px 20px #000;
+}
+.botons {
+  width: 100%;
+  background: #fff;
+  border: none;
+  padding: 12px;
+  color: rgb(67, 105, 176);
+  margin: 16px 0;
+  font-size: 16px;
+}
